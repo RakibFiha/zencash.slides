@@ -1,4 +1,4 @@
-# web-presentation
+# zencash-slides-neukind
 
 Project is designed to quickly build presentation as a web page.
 
