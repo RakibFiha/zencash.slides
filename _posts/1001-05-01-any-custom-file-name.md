@@ -2,9 +2,10 @@
 layout: post
 ---
 
-example of blockquotes
+セットアップの手順は以下のとおりです。
 
-As Grace Hopper said:
-> I’ve always been more interested 
-> in the future than in the past.
+**1．ZENを保有するためのウォレットを作成します**
 
+2．ZENに交換し、自分のウォレットに送金します。
+
+3．ノードを起動するため、指定されたt-addressに送金します。
